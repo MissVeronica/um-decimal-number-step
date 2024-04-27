@@ -1,4 +1,4 @@
-# UM Decimal Number Step
+# UM Decimal Number Steps
 Extension to Ultimate Member for managing decimal number fields in 0.1 steps.
 
 ## UM Settings -> Appearance -> Profile -> "Decimal Number Steps"
